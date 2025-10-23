@@ -63,8 +63,10 @@ For more details, see the **LICENSE** file included in the repository.
 
 ## 🧑‍💻 Author
 
+- *Rodina Ahmed* → [GitHub Profile](https://github.com/RodinaAhmed)
 - *Nada Attia* → [GitHub Profile](https://github.com/NadaAttia04)  
-- *Farida Ayman* → [GitHub Profile](https://github.com/FaridaAyman)  
+- *Farida Ayman* → [GitHub Profile](https://github.com/FaridaAyman)
+  
 - *Rodina Ahmed* → [GitHub Profile](https://github.com/RodinaAhmed)
 
 ---
