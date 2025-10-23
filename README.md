@@ -1,12 +1,7 @@
 🐍 Snake Game (2D)
-![WhatsApp Image 2025-10-23 at 17 32 19_dfcad4f8](https://github.com/user-attachments/assets/d4b91ead-b3e5-4421-87f5-0058afabfaea)
 
 🎮 Overview
-
-Snake Game is a classic and entertaining 2D arcade game where the player controls a snake to eat food and grow longer.
-As the snake grows, the challenge increases — requiring quick reflexes and smart navigation to avoid collisions with walls or itself.
-
-It’s a simple yet addictive game that can be enjoyed by players of all ages.
+Snake Game is a classic and entertaining 2D arcade game where the player controls a snake to eat food and grow longer. As the snake grows, the challenge increases — requiring quick reflexes and smart navigation to avoid collisions with walls or itself. It’s a simple yet addictive game that can be enjoyed by players of all ages.
 
 ⚙️ Technical Details
 
@@ -22,22 +17,14 @@ Optimized Performance: Includes an efficient game loop and precise collision det
 
 Clone or download the project repository to your local machine.
 
-For Web Version:
+For Web Version: Open the index.html file directly in your browser.
 
-Open the index.html file directly in your browser.
+For Desktop or Mobile Versions: Follow the build and installation steps provided in the project documentation.
 
-For Desktop or Mobile Versions:
-
-Follow the build and installation steps provided in the project documentation.
-
-Dependencies:
-
-No additional installations are required beyond what is specified in the documentation.
+Dependencies: No additional installations are required beyond what is specified in the documentation.
 
 🤝 Contributing
-
-Contributions are highly appreciated! 💪
-You can help by:
+Contributions are highly appreciated! 💪 You can help by:
 
 Fixing bugs 🪲
 
@@ -46,13 +33,10 @@ Adding new features ✨
 Improving the user interface 🎨
 
 Enhancing the documentation 📝
-
 Please open an issue for bugs or feature requests, and submit a pull request for proposed changes.
 
 📜 License
-
-This project is licensed under the [Insert License Name — e.g., MIT License].
-For more details, see the LICENSE file included in the repository.
+This project is licensed under the [Insert License Name — e.g., MIT License]. For more details, see the LICENSE file included in the repository.
 ## 🧑‍💻 Author
 
 - *Nada Attia* → [GitHub Profile](https://github.com/NadaAttia04)  
