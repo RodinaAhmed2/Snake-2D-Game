@@ -66,7 +66,6 @@ For more details, see the **LICENSE** file included in the repository.
 - *Rodina Ahmed* → [GitHub Profile](https://github.com/RodinaAhmed)
 - *Nada Attia* → [GitHub Profile](https://github.com/NadaAttia04)  
 - *Farida Ayman* → [GitHub Profile](https://github.com/FaridaAyman)
-
 ---
 
 ⭐ *If you like this project, don't forget to star the reposit
