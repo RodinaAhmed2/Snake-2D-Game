@@ -1,4 +1,7 @@
 Snake Game (2D)
+
+![WhatsApp Image 2025-10-23 at 17 32 19_dfcad4f8](https://github.com/user-attachments/assets/d4b91ead-b3e5-4421-87f5-0058afabfaea)
+
 🎮 Overview
 
 Snake Game is a classic and entertaining 2D arcade game where the player controls a snake to eat food and grow longer. As the snake grows, the challenge increases — requiring quick reflexes and smart navigation to avoid collisions with walls or itself.
